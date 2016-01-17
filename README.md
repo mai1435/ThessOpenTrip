@@ -1,0 +1,2 @@
+# ThessOpenTrip
+ThessOpenTrip is a mobile application for tourists who visit Thessaloniki, developed with Apache Cordova (HTML, CSS &amp; JS), aiming at facilitating their stay and sightseeing in various ways. The application deploys crowd-sourcing techniques for generating data by the end users and contributes to the open data community by allowing anonymous access to the user-generated data, provided through an open Application Programming Interface (API)
