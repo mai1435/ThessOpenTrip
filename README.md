@@ -11,7 +11,7 @@ On top of that, ThessOpenTrip enables users to create and perform cultural tours
 Follow the link below to get the .apk of the application:
 https://www.dropbox.com/sh/28vs51id9dl3iif/AACjs_y_Iq26SKMKbcb80hsaa?dl=0
 
-# User Mnual
+# User Manual
 Follow the link below to get the user manual:
 https://www.dropbox.com/sh/7dz9z01ecvc16ap/AADMID3Ooa8MygbrT6JOJxola?dl=0
 
